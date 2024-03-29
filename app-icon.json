@@ -95,5 +95,8 @@
   "WINWORD.EXE": "word",
   "EXCEL.EXE": "excel",
   "POWERPNT.EXE": "powerpoint",
-  "ONENOTE.EXE": "onenote"
+  "ONENOTE.EXE": "onenote",
+  "League of Legends": "league_of_legends",
+  "League of Legends (TM) Client": "league_of_legends",
+  "LeagueClientUx": "league_of_legends"
 }
