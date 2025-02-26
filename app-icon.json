@@ -1,11 +1,13 @@
 {
   "Activity Monitor": "activity",
+  "活动监视器": "activity",
   "Chrome Canary": "chrome_canary",
   "Code - Insiders": "code",
   "Google Chrome Canary": "chrome_canary",
   "Google Chrome": "chrome",
   "System Preferences": "system",
   "System Settings": "system",
+  "系统设置": "system",
   "Adobe Illustrator 2023": "illustrator",
   "Adobe Photoshop 2023": "photoshop",
   "Microsoft Word": "word",
@@ -30,6 +32,7 @@
   "备忘录": "notes",
   "Safari浏览器": "safari",
   "微信": "wechat",
+  "微信（测试版）": "wechat",
   "腾讯会议": "tencent_meeting",
   "Alacritty": "alacritty",
   "Arc": "arc",
@@ -75,6 +78,7 @@
   "Thorium": "thorium",
   "cmusic": "cmusic",
   "Microsoft Edge": "edge",
+  "Microsoft Edge Canary": "edge_canary",
   "msedge": "edge",
   "firefox": "firefox",
   "idea64": "idea",
@@ -84,6 +88,7 @@
   "卡拉彼丘": "calatopia",
   "Genshin Impact Cloud Game": "cloudgenshin",
   "Yuanshen": "genshin",
+  "云·原神": "cloudgenshin",
   "StarRail": "star_rail",
   "chrome": "chrome",
   "哔哩哔哩": "bilibili",
@@ -103,5 +108,7 @@
   "LobeChat":"lobe_chat",
   "Cursor":"cursor",
   "Epic":"epic",
-  "Lightroom":"lr"
+  "Lightroom":"lr",
+  "iPhone镜像": "iphonemirror",
+  "企业微信": "wxwork"
 }
